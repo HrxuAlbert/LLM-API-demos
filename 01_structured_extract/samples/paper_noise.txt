@@ -1,0 +1,14 @@
+[Proceedings of NIPS 2017]  (now NeurIPS)
+ATTENTION IS ALL YOU NEED — Vaswani et al.
+
+© 2017. Preprint typeset in JMLR style. 
+We introduce the Transformer, dispensing with recurrence and convolution...
+
+Authors:
+A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez, Ł. Kaiser, I. Polosukhin
+
+Accepted at: NIPS-2017 (NeurIPS)
+Digital Object Identifier: (not assigned)
+Year of publication: 2017
+
+Keywords — transformer / self-attention / sequence transduction

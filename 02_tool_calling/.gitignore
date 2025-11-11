@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.env.local
+
+# Generated files
+bookings.json
+plans/*.md
+!plans/.gitkeep
+!plans/README.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+

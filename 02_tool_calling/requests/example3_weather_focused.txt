@@ -1,0 +1,7 @@
+Plan my outdoor activities for tomorrow:
+- Morning: Want to walk from Home to Office, but only if weather is good
+- If rain probability > 50%, suggest taking transit instead
+- Afternoon: Schedule a 45-minute 'Project Review' meeting with Koust between 13:00-16:00
+- Provide detailed weather analysis for the day
+- Suggest best times for outdoor activities based on weather
+

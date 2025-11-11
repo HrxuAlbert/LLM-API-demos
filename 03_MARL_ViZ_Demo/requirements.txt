@@ -1,0 +1,18 @@
+# Multi-Agent Reinforcement Learning dependencies
+pettingzoo[mpe]>=1.24
+gymnasium>=0.29
+
+# Numerical computing and visualization
+numpy>=1.26
+imageio>=2.34
+pillow>=10.3
+matplotlib>=3.8
+
+# Web server and API
+fastapi>=0.115
+uvicorn>=0.30
+requests>=2.32
+
+# LLM integration (optional, for --director llm)
+openai>=1.0.0
+python-dotenv>=1.0.0

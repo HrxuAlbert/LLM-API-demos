@@ -1,0 +1,7 @@
+Title: Attention Is All You Need
+Authors: Ashish Vaswani; Noam Shazeer; Niki Parmar; Jakob Uszkoreit; Llion Jones; Aidan N. Gomez; Łukasz Kaiser; Illia Polosukhin
+Venue: NeurIPS
+Year: 2017
+DOI:
+Abstract: The paper proposes the Transformer, a novel neural network architecture based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. It achieves state-of-the-art results on machine translation tasks while being more parallelizable and requiring significantly less time to train.
+Keywords: transformer; attention; neural machine translation; deep learning
