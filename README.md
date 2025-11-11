@@ -18,8 +18,8 @@ This repository showcases practical implementations of LLM APIs (OpenAI, Anthrop
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -345,33 +345,6 @@ python src/marl_viz.py --env tag --steps 50
 
 ---
 
-## 📝 Citation
-
-If you use this project in your research or teaching, please cite:
-
-```bibtex
-@misc{llm_api_demos,
-  title={LLM API Demonstrations: Structured Extraction, Function Calling, and MARL},
-  author={Your Name},
-  year={2025},
-  url={https://github.com/yourusername/API_Demo}
-}
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -390,7 +363,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue or contact [your.email@example.com](mailto:your.email@example.com).
+For questions or suggestions, please open an issue or contact [2614067X@student.gla.ac.uk](mailto:2614067X@student.gla.ac.uk).
 
 ---
 
