@@ -1,11 +1,32 @@
-# LLM API Demonstrations
+# LLM API Demos
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This repository contains lightweight demos for structured LLM API usage, agent-oriented workflows, and research prototyping.
 
-> **Comprehensive demonstrations of Large Language Model API usage across diverse applications**
+The goal of this repository is to collect small, reusable examples for experimenting with modern LLM APIs, including structured outputs, tool/function calling, prompt-based extraction, and early-stage agent workflow design.
 
-This repository showcases practical implementations of LLM APIs (OpenAI, Anthropic, Google Gemini) in three distinct domains: structured data extraction, function calling, and multi-agent reinforcement learning visualization.
+## Research Context
+
+This repository supports my broader research on trustworthy multi-agent AI systems and LLM-agent collaboration. In particular, these demos provide practical building blocks for:
+
+* structured proposal generation;
+* evidence-aware LLM outputs;
+* agent response formatting;
+* lightweight evaluation pipelines;
+* API-based research prototyping.
+
+It is not intended to be a full framework. Instead, it serves as a compact experimental space for testing API behaviors and implementation patterns that may later be integrated into larger research systems.
+
+## Scope
+
+Current and future examples may include:
+
+* structured JSON output generation;
+* function/tool calling demos;
+* multi-agent interaction prototypes;
+* claim verification or evidence-grounded response examples;
+* prompt templates for research experiments;
+* basic visualization or analysis utilities.
+
 
 ## 📋 Table of Contents
 
